@@ -4,4 +4,5 @@ For the database developed in the first semester, a Windows application must be 
 - to display all records of the parent table;
 -when selecting a record from the parent, all records of the child table will be displayed -when selecting a record from the child, deletion or updating of data must be allowed;
 - selected a record from the parent, it is allowed to add a new child record.
+
 Data sets and data adapters will be used to communicate with the database. Any of the available controls can be used to create the window (form).
